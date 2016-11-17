@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{84FCC37F-FE3E-46DA-91E7-D9F27147D1E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleApp/ViewController.cs">
+    <Files>
+      <File FileName="SampleApp/ViewController.cs" Line="29" Column="3" />
+      <File FileName="KBCustomCheckBox/ApiDefinition.cs" Line="150" Column="22" />
+      <File FileName="KBCustomCheckBox/Structs.cs" Line="8" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C8E01009-41C2-4A61-B734-069B86E7F497" />
+  <MultiItemStartupConfigurations />
+</Properties>
